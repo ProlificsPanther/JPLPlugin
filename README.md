@@ -4,8 +4,10 @@ In addition to creating  Panther Projects, Panther Libraries and  JPL file, it v
 
 Please Download the zip file JPLE.Plugins.zip and follow the instructions in JPLPluginReadMe.pdf available inside the zip file to install the plugin.
 
-Need a Panther Web 552 Redhat Image? [Click Here](https://hub.docker.com/r/prolificspanther/pantherweb)
+Need a Panther Web 552 Redhat Image? [Click Here](https://hub.docker.com/r/prolificspanther/pantherweb "Named link title") 
 
-[Click Here](https://www.prolifics.com/panther-trial-license-request) for a 45 day license.
+[Click Here](https://prolifics.com/panther-trial-license-request/ "Named link title") for a 45-day license.
 
-How to setup a Panther Servlet Web Application? [Click Here](https://github.com/ProlificsPanther/PantherWeb/releases)
+How to set up a Panther Servlet Web Application? [Click Here](https://github.com/ProlificsPanther/PantherWeb/releases "Named link title")
+
+Read our Documentation [here](https://docs.prolifics.com)
