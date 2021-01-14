@@ -1,6 +1,0 @@
-New Features
-9.29.16  Library.xml is generated. 
-         Added icons for jpl and ascii files
-         
-Bug Fixes
-9.29.16  End of line error (Newline required after last JPL statement).
