@@ -38,7 +38,9 @@ Note: - if you don’t have an idea which eclipse to select then you can downloa
   Read  this https://github.com/ProlificsPanther/JPLEPlugin/blob/master/instructions.docx
 
 # Updates
+
 July 2017
+
 Added keywords 'Append' (optional)and 'query' in the new version JPL-E3.7.24.
 Syntax:-
 send bundle "abc" append data xyz
