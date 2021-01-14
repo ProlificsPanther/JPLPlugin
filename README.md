@@ -2,7 +2,7 @@
 Develop Prolifics Panther’s JPL source code within the Eclipse IDE.
 
 # Features
-* Create Panther Projects
+ * Create Panther Projects
 
  *	Create Panther Libraries
 
@@ -39,9 +39,10 @@ Note: - if you don’t have an idea which eclipse to select then you can downloa
 
 # Updates
 
-July 2017
+07.17
+1.Added keywords 'Append' (optional)and 'query'  
 
-Added keywords 'Append' (optional)and 'query' in the new version JPL-E3.7.24.
-Syntax:-
-send bundle "abc" append data xyz
-msg query "hello"
+09.16
+1.Library.xml is generated. 
+2.Added icons for jpl and ascii files
+3.End of line error (Newline required after last JPL statement).
