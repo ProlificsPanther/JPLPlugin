@@ -1,11 +1,38 @@
 # JPLEPlugin
-JPLEPlugin allows you to develop  ProlificsPanther’s JPL source code within the Eclipse IDE.
-In addition to creating  Panther Projects, Panther Libraries and  JPL file, it validates the JPL syntax as well as  does content assists when coding JPL.
+Develop Prolifics Panther’s JPL source code within the Eclipse IDE.
+Features
+	Create Panther Projects
 
-Please download the zip file JPLEPlugin.zip and follow the instructions in instruction.docx to install the Plugin.
+	Create Panther Libraries
 
-Need a Panther Web 552 Redhat Image? [Click Here](https://hub.docker.com/r/prolificspanther/pantherweb "Named link title") 
+	Import Panther Libraries
 
-How to set up a Panther Servlet Web Application? [Click Here](https://github.com/ProlificsPanther/PantherWeb/releases "Named link title")
+	Export Panther Libraries
 
-Read our Documentation [here](https://docs.prolifics.com)
+	Create JPL files
+
+	JPL syntax validated for correctness
+
+	Converts binary screens, reports and menus to ASCII
+
+	Search and Compare files
+
+	Content assist after “->” , i.e. @widget(“screen1”)->title=”Login Screen”
+
+	Content assist after “_”, i.e. “ sm_” or “ dm_”
+
+	Hyperlinking – for smart switching between call and procs
+
+	Source Code Control Support
+
+Software Requirements:
+
+1.	Eclipse IDE (Kepler/Mars/Neon/Oxygen/Release 2020-06(version-4.16)):
+
+To install this plugin you must install Eclipse onto your system. You may download it from http://www.eclipse.org/downloads/eclipse-packages/
+2.	Please select the version which provides the tools for JAVA EE and Web applications.
+
+Note: - if you don’t have an idea which eclipse to select then you can download Neon 3 from below link. https://www.eclipse.org/downloads/packages/release/neon/3
+
+
+ 
