@@ -1,6 +1,7 @@
 # JPLEPlugin
 Develop Prolifics Panther’s JPL source code within the Eclipse IDE.
-Features
+
+#Features
 	Create Panther Projects
 
 	Create Panther Libraries
@@ -25,7 +26,7 @@ Features
 
 	Source Code Control Support
 
-Software Requirements:
+#Software Requirements:
 
 1.	Eclipse IDE (Kepler/Mars/Neon/Oxygen/Release 2020-06(version-4.16)):
 
