@@ -1,7 +1,7 @@
-# JPLEPlugin
+# JPLPlugin
 Develop Prolifics Panther’s JPL source code within the Eclipse IDE.
 
-#Features
+# Features
 	Create Panther Projects
 
 	Create Panther Libraries
@@ -26,11 +26,10 @@ Develop Prolifics Panther’s JPL source code within the Eclipse IDE.
 
 	Source Code Control Support
 
-#Software Requirements:
+# Software Requirements
 
-1.	Eclipse IDE (Kepler/Mars/Neon/Oxygen/Release 2020-06(version-4.16)):
-
-To install this plugin you must install Eclipse onto your system. You may download it from http://www.eclipse.org/downloads/eclipse-packages/
+1.	Eclipse IDE (Kepler/Mars/Neon/Oxygen/ or later 
+1. To install this plugin you must first have Eclipse on your system. You may download it from http://www.eclipse.org/downloads/eclipse-packages/
 2.	Please select the version which provides the tools for JAVA EE and Web applications.
 
 Note: - if you don’t have an idea which eclipse to select then you can download Neon 3 from below link. https://www.eclipse.org/downloads/packages/release/neon/3
