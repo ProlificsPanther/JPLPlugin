@@ -29,10 +29,10 @@ Develop Prolifics Panther’s JPL source code within the Eclipse IDE.
 # Software Requirements
 
 1.	Eclipse IDE (Kepler/Mars/Neon/Oxygen/ or later 
-1. To install this plugin you must first have Eclipse on your system. You may download it from http://www.eclipse.org/downloads/eclipse-packages/
-2.	Please select the version which provides the tools for JAVA EE and Web applications.
+2. To install this plugin you must first have Eclipse on your system. You may download it from http://www.eclipse.org/downloads/eclipse-packages/
+3.	Please select the version which provides the tools for JAVA EE and Web applications.
 
 Note: - if you don’t have an idea which eclipse to select then you can download Neon 3 from below link. https://www.eclipse.org/downloads/packages/release/neon/3
 
-
- 
+# Installation and Usage
+  Read  this
