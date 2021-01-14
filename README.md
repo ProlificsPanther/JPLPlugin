@@ -2,7 +2,7 @@
 Develop Prolifics Panther’s JPL source code within the Eclipse IDE.
 
 # Features
-	Create Panther Projects
+* Create Panther Projects
 
 	Create Panther Libraries
 
