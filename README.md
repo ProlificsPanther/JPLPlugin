@@ -4,27 +4,27 @@ Develop Prolifics Panther’s JPL source code within the Eclipse IDE.
 # Features
 * Create Panther Projects
 
-	Create Panther Libraries
+ *	Create Panther Libraries
 
-	Import Panther Libraries
+ * Import Panther Libraries
 
-	Export Panther Libraries
+ * Export Panther Libraries
 
-	Create JPL files
+ * Create JPL files
 
-	JPL syntax validated for correctness
+ * JPL syntax validated for correctness
 
-	Converts binary screens, reports and menus to ASCII
+ * Converts binary screens, reports and menus to ASCII
 
-	Search and Compare files
+ * Search and Compare files
 
-	Content assist after “->” , i.e. @widget(“screen1”)->title=”Login Screen”
+ * Content assist after “->” , i.e. @widget(“screen1”)->title=”Login Screen”
 
-	Content assist after “_”, i.e. “ sm_” or “ dm_”
+ * Content assist after “_”, i.e. “ sm_” or “ dm_”
 
-	Hyperlinking – for smart switching between call and procs
+ * Hyperlinking – for smart switching between call and procs
 
-	Source Code Control Support
+ * Source Code Control Support
 
 # Software Requirements
 
