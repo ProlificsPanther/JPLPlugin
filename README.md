@@ -35,4 +35,4 @@ Develop Prolifics Panther’s JPL source code within the Eclipse IDE.
 Note: - if you don’t have an idea which eclipse to select then you can download Neon 3 from below link. https://www.eclipse.org/downloads/packages/release/neon/3
 
 # Installation and Usage
-  Read  this
+  Read  this https://github.com/ProlificsPanther/JPLEPlugin/blob/master/instructions.docx
