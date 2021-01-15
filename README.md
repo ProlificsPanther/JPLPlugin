@@ -39,7 +39,7 @@ Note: - if you don’t have an idea which eclipse to select then you can downloa
 
 # Updates
 
-# 3.1
+## 3.1
 1.  Added keywords 'Append' (optional)and 'query'  
 2.  Library.xml is generated
 3.  Added icons for jpl and ascii files
