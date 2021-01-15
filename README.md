@@ -39,10 +39,8 @@ Note: - if you don’t have an idea which eclipse to select then you can downloa
 
 # Updates
 
-07.17
+# 3.1
 1.Added keywords 'Append' (optional)and 'query'  
-
-09.16
-1. Library.xml is generated
-2. Added icons for jpl and ascii files
-3. End of line error (Newline required after last JPL statement)
+2. Library.xml is generated
+3. Added icons for jpl and ascii files
+4. End of line error (Newline required after last JPL statement)
