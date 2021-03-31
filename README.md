@@ -43,3 +43,7 @@ Note: - if you don’t have an idea which eclipse to select then you can downloa
 1.  Library.xml is generated
 2.  Added icons for jpl and ascii files
 3.  End of line error (Newline required after last JPL statement)
+
+## 3.2
+1.  Added 'append' keyword to send bundle.
+2.  Added 'item [parameters]' to receive bundle syntax.
