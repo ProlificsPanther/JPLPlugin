@@ -39,7 +39,7 @@ below link. https://www.eclipse.org/downloads/packages/release/neon/3
 
 # Installation and Usage
   Read  this https://github.com/ProlificsPanther/JPLPlugin/blob/master/JPLPlugin.pdf
-  https://www.youtube.com/watch?v=ymqthkjxJlc&t=41s&ab_channel=ProlificsPanther
+  YouTube : https://www.youtube.com/watch?v=ymqthkjxJlc&t=41s&ab_channel=ProlificsPanther
 
 # Updates
 
