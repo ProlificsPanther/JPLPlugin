@@ -39,6 +39,7 @@ below link. https://www.eclipse.org/downloads/packages/release/neon/3
 
 # Installation and Usage
   Read  this https://github.com/ProlificsPanther/JPLPlugin/blob/master/JPLPlugin.pdf
+  https://www.youtube.com/watch?v=ymqthkjxJlc&t=41s&ab_channel=ProlificsPanther
 
 # Updates
 
@@ -50,3 +51,4 @@ below link. https://www.eclipse.org/downloads/packages/release/neon/3
 ## 3.2
 1.  Added 'append' keyword to send bundle.
 2.  Added 'item [parameters]' to receive bundle syntax.
+YouTube : https://www.youtube.com/watch?v=ALmpeBqZTeQ&ab_channel=ProlificsPanther
