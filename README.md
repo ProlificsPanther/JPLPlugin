@@ -1,7 +1,7 @@
-# JPLPlugin
+# JPLPlugin:
 Develop Prolifics Panther’s JPL source code within the Eclipse IDE. Please download the latest release.
 
-# Features
+# Features:
  * Create Panther Projects
 
  * Create Panther Libraries
@@ -37,7 +37,7 @@ contain tools for JAVA EE and Web applications.
 Note: - if you don’t know which Eclipse version to select, just download Neon 3 from
 below link. https://www.eclipse.org/downloads/packages/release/neon/3
 
-# Installation and Usage
+# Installation and Usage:
 
   Step by Step instructions.Read JPLPlugin.pdf
   
@@ -47,7 +47,7 @@ below link. https://www.eclipse.org/downloads/packages/release/neon/3
 
 
 
-# Updates
+# Updates:
 
 ## 3.1
 1.  Library.xml is generated
